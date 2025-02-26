@@ -1,7 +1,7 @@
 # Biblioteca_C++
 ## Introducción
 Este es un proyecto realizado en la materia algoritmos y estructura de datos en la UTN.
-Para esta materia se implemento las siguientes estructuras con sus repectivas funciones: Array, Map, List, Pilas y Colas.
+Para esta materia se implemento las siguientes estructuras con sus repectivas funciones: Array, Map, List, Stack y Queue.
 
 ## 1. Arrays  
 El TAD Arr representa un array tipo T cuya capacidad física se incrementará automáticamente cuando su longitud (cantidad de elementos que contiene) 
@@ -20,7 +20,7 @@ Un map consiste en una colección de pares {key, value}. Cada elemento (value) q
 a través de la cual, posteriormente, podremos recuperarlo, modificarlo o eliminarlo.
 ```diff
 - NOTA: El tipo de dato de la clave (K) debe primitivo, string o cualquier otro cuya imple-mentación soporte
-el uso de los operadores relacionales
+- el uso de los operadores relacionales
 ```
 ### Ejemplo de creación  
 ```cpp
