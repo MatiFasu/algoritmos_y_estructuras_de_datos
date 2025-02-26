@@ -8,6 +8,7 @@ El TAD Arr representa un array tipo T cuya capacidad física se incrementará au
 de datos dinámica.
 
 ### Ejemplo de creación  
+```cpp
 - `Arr<int> a = arr<int>();` 
 - `**arrAdd<int>(a,10);`  
 - `arrAdd<int>(a,20);`  
