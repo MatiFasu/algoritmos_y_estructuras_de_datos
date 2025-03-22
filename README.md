@@ -10,7 +10,7 @@ se aproxime a la capacidad; dándole al usuario la “ilusión” de estar traba
 ### Ejemplo de creación  
 ```cpp
 - `Arr<int> a = arr<int>();` 
-- `**arrAdd<int>(a,10);`  
+- `arrAdd<int>(a,10);`  
 - `arrAdd<int>(a,20);`  
 - `arrAdd<int>(a,30);`  
 ```
